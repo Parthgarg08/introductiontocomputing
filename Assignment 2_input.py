@@ -36,9 +36,9 @@ print(s_input_removed)
 
 print('Answer 2')
 #Use of string formatting to print given output
-name='Yuvraj Singh Birdi'
-sid=21103049
-dep_name='CSE'
+name='Parth Garg'
+sid=21102098
+dep_name='Civil'
 cgpa=9.90
 print('Hey, %s here!' %name)
 print('My SID is %d' %sid)

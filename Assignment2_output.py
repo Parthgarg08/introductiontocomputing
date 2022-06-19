@@ -6,9 +6,9 @@ d. Python is object oriented language
 e. 10
 f. Pythonisacasesensitivelanguage
 Answer 2
-Hey, Yuvraj Singh Birdi here!
-My SID is 21103049
-I am from CSE department and my CGPA is 9.90
+Hey, Parth Garg here!
+My SID is 21102098
+I am from Civil department and my CGPA is 9.90
 Answer 3
 a. 8
 b. 58

@@ -1,7 +1,4 @@
 #Assignment 4
-#Name: Yuvraj Singh
-#SID: 21102071
-#Branch: CIVIL
 print("Q1")
 
 mark = int(input("Enter mark:"))

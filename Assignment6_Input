@@ -87,9 +87,9 @@ def student_data(student_id, **kwargs):
             print(f"Student Class: {kwargs['student_class']}")
 
  
-student_data(student_id='21106035', student_name='Aaditya')
+student_data(student_id='21102098', student_name='Parth Garg')
 
-student_data(student_id='21107032', student_name='Kashish', student_class ='XI')
+student_data(student_id='21102035', student_name='Vasu', student_class ='XI')
 
 #------------------------------------------------------------------------------------------------------------------------
 
